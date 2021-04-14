@@ -1,6 +1,10 @@
 # Awesome ANTI Burnout
 
-Burnout isn't awesome. Here are resources to help you recognise, reduce, and prevent burnout. I have 8 years' experience in tech but hopefully this will be relevant to many other industries. 
+Burnout isn't awesome. Here are resources to help you recognise, reduce, and prevent burnout. I have 8 years' experience in tech but hopefully this will be relevant to many other industries.
+
+Please contribute or leave feedback by making [pull requests](https://github.com/vlvagerviwager/awesome-anti-burnout/pulls) or [issues](https://github.com/vlvagerviwager/awesome-anti-burnout/issues). 
+
+Remember that there is no substitute for talking to supportive friends, family, or colleagues, nor for talking to a professional trained to help you with your mental wellbeing. 
 
 What | Where | Year Added
 --- | --- | --- 
