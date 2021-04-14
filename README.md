@@ -8,7 +8,7 @@ Remember that there is no substitute for talking to supportive friends/family, o
 
 What | Where | Year Added
 --- | --- | --- 
-Talk: Let's Talk about Burnout by James Spivey - Director of Engineering, Shutterstock  | https://pbell.wistia.com/medias/6rlfm4nlnu | 2021
-Article: Top five regrets of the dying on The Guardian | https://www.theguardian.com/lifeandstyle/2012/feb/01/top-five-regrets-of-the-dying | 2021
-Article: ‘Revenge Bedtime Procrastination’ Is Real, According to Psychologists on Glamour | https://www.glamour.com/story/revenge-bedtime-procrastination-is-real-according-to-psychologists | 2021
+_Talk:_ Let's Talk about Burnout by James Spivey - Director of Engineering, Shutterstock  | https://pbell.wistia.com/medias/6rlfm4nlnu | 2021
+_Article:_ Top five regrets of the dying on The Guardian | https://www.theguardian.com/lifeandstyle/2012/feb/01/top-five-regrets-of-the-dying | 2021
+_Article:_ ‘Revenge Bedtime Procrastination’ Is Real, According to Psychologists on Glamour | https://www.glamour.com/story/revenge-bedtime-procrastination-is-real-according-to-psychologists | 2021
 
